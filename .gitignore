@@ -1,0 +1,15 @@
+# Ignorar credenciais sensíveis
+cypress.env.json
+
+# Ignorar pastas e arquivos gerados pelo Cypress
+cypress/screenshots/
+cypress/videos/
+cypress/downloads/
+
+# Ignorar dependências e cache do Node.js
+node_modules/
+package-lock.json
+
+# Ignorar arquivos do Cypress e relatórios
+cypress/results/
+cypress/reports/
