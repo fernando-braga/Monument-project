@@ -1,5 +1,5 @@
 # Cypress Test Automation
-This automated test scenario aims to garantee that user without permissions doesn't access restrict URLs. 
+This automated test scenario aims to guarantee that user without permissions doesn't access restrict URLs. 
 ## 📌 Prerequisites
 - Node.js installed (LTS recommended)
 - NPM or Yarn installed
@@ -18,8 +18,7 @@ This automated test scenario aims to garantee that user without permissions does
   ```sh
   npm install
 
-4. Run the tests
+4. Run the tests:
   ```sh
   npx cypress open
-
 
